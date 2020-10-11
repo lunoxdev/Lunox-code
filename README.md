@@ -23,7 +23,6 @@ Technical Skills:
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-  <code><img height="35" src="https://user-images.githubusercontent.com/55005374/95686102-230f6980-0bb9-11eb-9c16-2de9f35e336a.png"></code>
   <code><img height="35" src="https://user-images.githubusercontent.com/55005374/95686171-87cac400-0bb9-11eb-9d49-390f3543a0a6.png"></code>
   <code><img height="35" src="https://user-images.githubusercontent.com/55005374/95686219-bd6fad00-0bb9-11eb-9dfd-be7dd980d005.png"></code>
   <code><img height="35" src="https://user-images.githubusercontent.com/55005374/95686553-d4170380-0bbb-11eb-94f2-c528413c7bad.png"></code>
