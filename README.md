@@ -13,7 +13,7 @@ I would like to change the World but they won't give me the source code
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)
 
 <!-- Technical Skills -->
-Technical Skills:
+Technical Skills: 💻
 <p align="center">
   <div align="left">
   
@@ -41,7 +41,7 @@ Technical Skills:
   
   
 <!-- Learning -->
- Learning:
+Learning: 📚
 <p align="center">
   <div align="left">
   
@@ -65,7 +65,7 @@ Technical Skills:
 
 
 <!-- GitHub Stats -->
-<details><summary>GitHub Statistics:</summary></h2>
+<details><summary>GitHub Statistics: 📈</summary></h2>
 <p align="center">
   <div align="center">
 <a href="https://github.com/Lunox-code">
