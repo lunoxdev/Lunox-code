@@ -30,15 +30,8 @@ Technical Skills:
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687701-80f47f00-0bc2-11eb-89f5-a1a8e6788aeb.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688226-c6ff1200-0bc5-11eb-82cc-33e35bcb0910.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688265-26f5b880-0bc6-11eb-8f8a-9ccd042ad11f.png"></code>
-
-
-
-
-
-  
-  
-
-
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688411-345f7280-0bc7-11eb-9513-82e0452a81eb.png"></code>
+    
 
 
 
@@ -56,6 +49,8 @@ Technical Skills:
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686219-bd6fad00-0bb9-11eb-9dfd-be7dd980d005.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688568-85239b00-0bc8-11eb-96f3-7e9356490a9e.png"></code>
+
 
 
 
