@@ -2,7 +2,7 @@
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2></h1>
 
 <!-- Technical Skills -->
-**Technical Skills:**
+Technical Skills:
 
 <p align="center">
 
@@ -17,15 +17,22 @@
 <br/>
 
 <!-- GitHub Stats -->
-<h1 align="center">
-<details><summary> GitHub Statistics 📈 </summary>
+<details><summary>GitHub Statistics:</summary></h2>
+
+<p align="center">
+
+  <div align="center">
+  
 <a href="https://github.com/Lunox-code">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lunox-code&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
 </a><br/>
   <a href="https://github.com/Lunox-code?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunox-code&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=1a1e3d" alt='Lunox's favorite languages" />
 </a>
-</details>
+
+  </div>
+  </p>
+  </details>
 
 
 
