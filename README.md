@@ -7,11 +7,17 @@
 <br/>
 <br/>
 
-<details><summary> Github Statistics 📈 </summary>
+<h1 align="center">
+<details><summary> GitHub Statistics 📈 </summary>
 <a href="https://github.com/Lunox-code">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lunox-code&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
+</a><br/>
+  <a href="https://github.com/Lunox-code?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunox-code&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=1a1e3d" alt='Lunox's favorite languages" />
 </a>
 </details>
+
+
 
 
 <h1 align="center">
