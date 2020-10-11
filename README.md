@@ -34,6 +34,24 @@ Technical Skills:
 
   </div>
   </p>
+  
+  
+<!-- Learning -->
+ Learning:
+<p align="center">
+  <div align="center">
+  
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="35" src="https://user-images.githubusercontent.com/55005374/95686219-bd6fad00-0bb9-11eb-9dfd-be7dd980d005.png"></code>
+
+
+
+
+  </div>
+  </p>
 
 <!-- Spaces -->
 <br/>
