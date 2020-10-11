@@ -12,8 +12,8 @@
 <a href="https://stackoverflow.com/users/12381868/lunox?tab=profile">
   <img align="left" alt="Lunox's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
 </a>
-<a href="mailto:contact.ismailhabibi@gmail.com">
-  <img align="left" alt="Lunox's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
+<a href="mailto:lunox.code@gmail.com">
+  <img align="left" alt="Lunox's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />
 </a>
 
 <br/>
