@@ -30,9 +30,8 @@ Technical Skills: 💻
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687701-80f47f00-0bc2-11eb-89f5-a1a8e6788aeb.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688226-c6ff1200-0bc5-11eb-82cc-33e35bcb0910.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688265-26f5b880-0bc6-11eb-8f8a-9ccd042ad11f.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688411-345f7280-0bc7-11eb-9513-82e0452a81eb.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688875-5dcdcd80-0bca-11eb-8915-b3cf9791ca3c.png"></code>
-    
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688411-345f7280-0bc7-11eb-9513-82e0452a81eb.png"></code>    
 
 
 
