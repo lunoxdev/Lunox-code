@@ -5,6 +5,24 @@
 <!-- Quote -->
 <p align="center">
 I would like to change the World but they won't give me the source code
+  
+  <!-- Social Network -->
+<h1 align="center">
+<a href="https://www.instagram.com/lunox.code/">
+  <img align="center" alt="Lunox's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/lunox/">
+  <img align="center" alt="Lunox's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Lunox-code">
+  <img align="center" alt="Lunox's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://stackoverflow.com/users/12381868/lunox?tab=profile">
+  <img align="center" alt="Lunox's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
+</a>
+<a href="mailto:lunox.code@gmail.com">
+  <img align="center" alt="Lunox's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />
+</a></h1>
 
 
 <!-- Background -->
@@ -73,23 +91,3 @@ Learning: 📚
   </div>
   </p>
 </details>
-
-
-
-<!-- Social Network -->
-<h1 align="center">
-<a href="https://www.instagram.com/lunox.code/">
-  <img align="center" alt="Lunox's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/instagram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/lunox/">
-  <img align="center" alt="Lunox's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Lunox-code">
-  <img align="center" alt="Lunox's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://stackoverflow.com/users/12381868/lunox?tab=profile">
-  <img align="center" alt="Lunox's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
-</a>
-<a href="mailto:lunox.code@gmail.com">
-  <img align="center" alt="Lunox's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />
-</a></h1>
