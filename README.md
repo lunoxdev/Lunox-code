@@ -56,24 +56,14 @@ Technical Skills: 💻
   </div>
   </p>
   
-  <!-- Learning Cybersecurity -->
-Learning Cybersecurity: 🌐
+  <!-- Skills to learn -->
+Skills to learn: 🌐
 <p align="center">
   <div align="left">
 
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/98500292-bcaa5500-2211-11eb-8db2-daa1c0e71cef.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688568-85239b00-0bc8-11eb-96f3-7e9356490a9e.png"></code>
-</div>
-  </p>
-  
-  
-  
-<!-- Learning Software Development -->
-Learning Software Development: 📱
-<p align="center">
-  <div align="left">
-
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95811827-4fb6a480-0cd1-11eb-8138-78910586ee68.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
@@ -82,10 +72,6 @@ Learning Software Development: 📱
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688807-0d567000-0bca-11eb-8cec-9a813166d3d8.png"></code>
 </div>
   </p>
-
-<!-- Spaces -->
-<br/>
-
 
 <!-- GitHub Stats -->
 <details><summary>GitHub Statistics: 📈</summary></h2>
