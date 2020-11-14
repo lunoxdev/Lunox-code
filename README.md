@@ -56,8 +56,8 @@ Technical Skills: 💻
   </div>
   </p>
   
-  <!-- Learning -->
-Learning Cybersecurity: 📚
+  <!-- Learning Cybersecurity -->
+Learning Cybersecurity: 🌐
 <p align="center">
   <div align="left">
 
@@ -69,8 +69,8 @@ Learning Cybersecurity: 📚
   
   
   
-<!-- Learning -->
-Learning Software Development: 📚
+<!-- Learning Software Development -->
+Learning Software Development: 📱
 <p align="center">
   <div align="left">
 
