@@ -74,7 +74,7 @@ Skills to learn: 🌐
   </p>
 
 <!-- GitHub Stats -->
-<details><summary>GitHub Statistics: 📈</summary></h2>
+<summary>GitHub Statistics: 📈</summary></h2>
 <p align="center">
   <div align="center">
 <a href="https://github.com/Lunox-code">
@@ -85,4 +85,3 @@ Skills to learn: 🌐
 </a>
   </div>
   </p>
-</details>
