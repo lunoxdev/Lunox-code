@@ -31,7 +31,7 @@ I would like to change the World but they won't give me the source code
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)
 
 <!-- Technical Skills -->
-Technical Skills: 💻
+<p align="center"><strong> Technical Skills: 💻 </strong>
 <p align="center">
   <div align="left">
   
@@ -58,7 +58,7 @@ Technical Skills: 💻
   </p>
   
   <!-- Skills to learn -->
-Skills to learn: 🌐
+<p align="center"><strong>Skills to learn: 🌐</strong>
 <p align="center">
   <div align="left">
 
