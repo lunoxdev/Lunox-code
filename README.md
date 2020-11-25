@@ -33,8 +33,8 @@ I would like to change the World but they won't give me the source code
 &nbsp;
 
 <!-- Technical Skills -->
-<p align="center"><strong> Technical Skills: 💻 </strong>
-<p align="center">
+<H3 align="center"><strong> Technical Skills: 💻 </strong>
+
   <div align="left">
   
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
@@ -62,8 +62,8 @@ I would like to change the World but they won't give me the source code
 &nbsp;  
 
   <!-- Skills to learn -->
-<p align="center"><strong>Skills to learn: 🌐</strong>
-<p align="center">
+<H3 align="center"><strong>Skills to learn: 🌐</strong>
+  
   <div align="left">
 
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/98500292-bcaa5500-2211-11eb-8db2-daa1c0e71cef.png"></code>
