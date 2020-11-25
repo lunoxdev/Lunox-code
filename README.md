@@ -35,7 +35,7 @@ I would like to change the World but they won't give me the source code
 <!-- Technical Skills -->
 <H3 align="center"><strong> Technical Skills: 💻 </strong>
 
-  <div align="left">
+
   
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -52,11 +52,9 @@ I would like to change the World but they won't give me the source code
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687701-80f47f00-0bc2-11eb-89f5-a1a8e6788aeb.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688226-c6ff1200-0bc5-11eb-82cc-33e35bcb0910.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688265-26f5b880-0bc6-11eb-8f8a-9ccd042ad11f.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688411-345f7280-0bc7-11eb-9513-82e0452a81eb.png"></code>    
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688411-345f7280-0bc7-11eb-9513-82e0452a81eb.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688875-5dcdcd80-0bca-11eb-8915-b3cf9791ca3c.png"></code>
 
-
-  </div>
   </p>
   
 &nbsp;  
@@ -64,8 +62,6 @@ I would like to change the World but they won't give me the source code
   <!-- Skills to learn -->
 <H3 align="center"><strong>Skills to learn: 🌐</strong>
   
-  <div align="left">
-
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/98500292-bcaa5500-2211-11eb-8db2-daa1c0e71cef.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864609-ecd6e980-2b69-11eb-8268-1a455c00eefe.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864949-fbbe9b80-2b6b-11eb-8b5a-4ca8cd68261e.png"></code>
@@ -75,7 +71,6 @@ I would like to change the World but they won't give me the source code
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688807-0d567000-0bca-11eb-8cec-9a813166d3d8.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686219-bd6fad00-0bb9-11eb-9dfd-be7dd980d005.png"></code>
   
-</div>
   </p>
 &nbsp;
 
