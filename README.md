@@ -78,6 +78,7 @@ I would like to change the World but they won't give me the source code
 <!-- GitHub Stats -->
 <H2 align="center"><strong>GitHub Statistics: 📈</strong>
 <p align="center">
+  <div align="left">
 <a href="https://github.com/Lunox-code">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Lunox-code&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
 <a href="https://github.com/Lunox-code?tab=repositories">
