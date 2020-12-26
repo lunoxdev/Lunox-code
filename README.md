@@ -9,13 +9,13 @@ I would like to change the World but they won't give me the source code
   <!-- Social Network -->
 <h1 align="center">
 <a href="https://www.instagram.com/lunox.code/">
-  <img align="center" alt="Lunox's Instagram" width="22px" src="https://user-images.githubusercontent.com/55005374/103146144-ab0e0580-470a-11eb-8c02-76c2546f9b9a.png" />
+  <img align="center" alt="Lunox's Instagram" width="22px" src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
 </a>
 <a href="https://www.linkedin.com/in/lunox/">
-  <img align="center" alt="Lunox's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Lunox's Linkdein" width="22px" src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
 </a>
 <a href="https://github.com/Lunox-code">
-  <img align="center" alt="Lunox's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="center" alt="Lunox's Github" width="22px" src="https://user-images.githubusercontent.com/55005374/103146177-56b75580-470b-11eb-8a95-fe22fdf6cff8.png" />
 </a>
 <a href="https://stackoverflow.com/users/12381868/lunox?tab=profile">
   <img align="center" alt="Lunox's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
