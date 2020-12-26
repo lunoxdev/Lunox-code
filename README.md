@@ -9,7 +9,7 @@ I would like to change the World but they won't give me the source code
   <!-- Social Network -->
 <h1 align="center">
 <a href="https://www.instagram.com/lunox.code/">
-  <img align="center" alt="Lunox's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/instagram.svg" />
+  <img align="center" alt="Lunox's Instagram" width="22px" src="https://user-images.githubusercontent.com/55005374/103146144-ab0e0580-470a-11eb-8c02-76c2546f9b9a.png" />
 </a>
 <a href="https://www.linkedin.com/in/lunox/">
   <img align="center" alt="Lunox's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
