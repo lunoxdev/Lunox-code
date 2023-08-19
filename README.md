@@ -1,31 +1,64 @@
 <!-- Title -->
-<h1 align="center">Hello World 
-   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
-      width="30px">
-   </h2>
+<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h1>
-<!-- Quote -->
-<p align="center">
-   I would like to change the World but they won't give me the source code
-   <br>
-   <br>
-   <a href="https://github.com/Lunox-code?tab=repositories">
-   <img align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunox-code&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
-      alt='Lunox's favorite languages" />
-   </a>
-   <!-- Social Network -->
-<h1 align="center">
-   <a href="https://www.instagram.com/lunox.code/">
-   <img align="center" 
-      alt="Lunox's Instagram" 
-      width="22px" 
-      src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
-   </a>
-   <a href="https://www.linkedin.com/in/lunox/">
-   <img align="center" 
-      alt="Linkdein" 
-      width="22px" 
-      src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
-   </a>
-</h1>
+<!-- Description -->
+<h4 align="center"> I'm Moisés Obando, a passionate front-end developer with a knack for creating immersive and stunning web applications.</h4>
+<!-- My Website -->
+<p align="center">Visit my <a href="https://moisesobando.com/">website</a>
+</p>
+<!-- Projects -->
+<h2 align="center">My most notable projects</h2>
+<table>
+  <tr>
+     <!-- Casino -->
+    <td align="center" width="50%">
+      <h3>
+        <a href="https://github.com/Lunox-code/casino-games-project.github.io"> Casino Game </a>
+      </h3>
+      <p align="start">A sophisticated casino platform for placing bets on your favorite games</p>
+      <a href="https://casino-games-app.netlify.app/">
+        <img align="center" src="https://github.com/Lunox-code/Lunox-code/blob/main/Visit_btn.png?raw=true" alt="Casino Game" width="300">
+      </a>
+      <br>
+      <br>
+    </td>
+     <!-- Afiliados -->
+    <td align="center" width="50%">
+      <h3>
+        <a href="https://github.com/Lunox-code/apuestas365"> Afiliados </a>
+      </h3>
+      <p align="start">An affiliate LATAM website for online sports betting platforms</p>
+      <a href="https://afiliados.netlify.app/">
+        <img align="center" src="https://github.com/Lunox-code/Lunox-code/blob/main/Visit_btn.png?raw=true" alt="Afiliados" width="300">
+      </a>
+      <br>
+      <br>
+    </td>
+  </tr>
+  <tr>
+     <!-- Rick & Morty -->
+    <td align="center" width="50%">
+      <h3>
+        <a href="https://github.com/Lunox-code/rick-morty"> Rick & Morty </a>
+      </h3>
+      <p align="start">Embark on a captivating journey through the universe of this beloved animated series as you explore character profiles seamlessly connected to an API</p>
+      <a href="https://rick-morty-adventures.netlify.app/">
+        <img align="center" src="https://github.com/Lunox-code/Lunox-code/blob/main/Visit_btn.png?raw=true" alt="Casino Game" width="300">
+      </a>
+      <br>
+      <br>
+    </td>
+     <!-- Old Portfolio -->
+    <td align="center" width="50%">
+      <h3>
+        <a href="https://github.com/Lunox-code/portfolio.github.io">Old Portfolio Version</a>
+      </h3>
+      <p align="start">Explore my past work and witness the fusion of creativity, technical prowess, and attention to detail that sets me apart as a front-end developer</p>
+      <a href="https://lunoxcode.com/">
+        <img align="center" src="https://github.com/Lunox-code/Lunox-code/blob/main/Visit_btn.png?raw=true" alt="Afiliados" width="300">
+      </a>
+      <br>
+      <br>
+    </td>
+  </tr>
+</table>
