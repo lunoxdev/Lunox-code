@@ -42,7 +42,7 @@
       </h3>
       <p align="start">Embark on a captivating journey through the universe of this beloved animated series as you explore character profiles seamlessly connected to an API</p>
       <a href="https://rick-morty-adventures.netlify.app/">
-        <img align="center" src="https://github.com/Lunox-code/Lunox-code/blob/main/Visit_btn.png?raw=true" alt="Casino Game" width="300">
+        <img align="center" src="https://github.com/Lunox-code/Lunox-code/blob/main/Visit_btn.png?raw=true" alt="Rick and Morty" width="300">
       </a>
       <br>
       <br>
@@ -50,11 +50,11 @@
      <!-- Old Portfolio -->
     <td align="center" width="50%">
       <h3>
-        <a href="https://github.com/Lunox-code/portfolio.github.io">Old Portfolio Version</a>
+        <a href="https://github.com/Lunox-code/portfolio.github.io"> Portfolio </a>
       </h3>
-      <p align="start">Explore my past work and witness the fusion of creativity, technical prowess, and attention to detail that sets me apart as a front-end developer</p>
-      <a href="https://lunoxcode.com/">
-        <img align="center" src="https://github.com/Lunox-code/Lunox-code/blob/main/Visit_btn.png?raw=true" alt="Afiliados" width="300">
+      <p align="start">Explore my work and witness the fusion of creativity, technical prowess, and attention to detail that sets me apart as a front-end developer.</p>
+      <a href="https://moisesobando.com/">
+        <img align="center" src="https://github.com/Lunox-code/Lunox-code/blob/main/Visit_btn.png?raw=true" alt="Portfolio" width="300">
       </a>
       <br>
       <br>
