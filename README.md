@@ -53,7 +53,7 @@
         <a href="https://github.com/Lunox-code/portfolio.github.io"> Online lowercase to uppercase online converter </a>
       </h3>
       <p align="start">This project consists of a simple and effective web application that allows users to convert text between uppercase and lowercase letters quickly and conveniently in just a few seconds.</p>
-      <a href="https://minusculasymayusculas.com/" target="blank">
+      <a href="https://minusculasymayusculas.com/" target="_blank">
         <img align="center" src="https://github.com/Lunox-code/Lunox-code/blob/main/Visit_btn.png?raw=true" alt="Portfolio" width="300">
       </a>
       <br>
