@@ -50,7 +50,7 @@
      <!-- Minúsculas a mayúsculas online  -->
     <td align="center" width="50%">
       <h3>
-        <a href="https://github.com/Lunox-code/portfolio.github.io"> Online lowercase to uppercase online converter </a>
+        <a href="https://github.com/Lunox-code/portfolio.github.io"> Lowercase to uppercase online converter </a>
       </h3>
       <p align="start">This project consists of a simple and effective web application that allows users to convert text between uppercase and lowercase letters quickly and conveniently in just a few seconds.</p>
       <a href="https://minusculasymayusculas.com/">
