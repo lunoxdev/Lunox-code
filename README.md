@@ -35,19 +35,7 @@
     </td>
   </tr>
   <tr>
-     <!-- Rick & Morty -->
-    <td align="center" width="50%">
-      <h3>
-        <a href="https://github.com/Lunox-code/rick-morty"> Rick & Morty </a>
-      </h3>
-      <p align="start">Embark on a captivating journey through the universe of this beloved animated series as you explore character profiles seamlessly connected to an API</p>
-      <a href="https://rick-morty-adventures.netlify.app/">
-        <img align="center" src="https://github.com/Lunox-code/Lunox-code/blob/main/Visit_btn.png?raw=true" alt="Rick and Morty" width="300">
-      </a>
-      <br>
-      <br>
-    </td>
-     <!-- Minúsculas a mayúsculas online  -->
+    <!-- Minúsculas a mayúsculas online  -->
     <td align="center" width="50%">
       <h3>
         <a href="https://github.com/Lunox-code/portfolio.github.io"> Lowercase to uppercase online converter </a>
@@ -55,6 +43,18 @@
       <p align="start">This project consists of a simple and effective web application that allows users to convert text between uppercase and lowercase letters quickly and conveniently in just a few seconds.</p>
       <a href="https://minusculasymayusculas.com/">
         <img align="center" src="https://github.com/Lunox-code/Lunox-code/blob/main/Visit_btn.png?raw=true" alt="Portfolio" width="300">
+      </a>
+      <br>
+      <br>
+    </td>
+          <!-- Rick & Morty -->
+    <td align="center" width="50%">
+      <h3>
+        <a href="https://github.com/Lunox-code/rick-morty"> Rick & Morty </a>
+      </h3>
+      <p align="start">Embark on a captivating journey through the universe of this beloved animated series as you explore character profiles seamlessly connected to an API</p>
+      <a href="https://rick-morty-adventures.netlify.app/">
+        <img align="center" src="https://github.com/Lunox-code/Lunox-code/blob/main/Visit_btn.png?raw=true" alt="Rick and Morty" width="300">
       </a>
       <br>
       <br>
