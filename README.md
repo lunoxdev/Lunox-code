@@ -47,14 +47,14 @@
       <br>
       <br>
     </td>
-          <!-- Rick & Morty -->
+          <!-- Mobile Legends Counter-->
     <td align="center" width="50%">
       <h3>
-        <a href="https://github.com/Lunox-code/rick-morty"> Rick & Morty </a>
+        <a href="https://github.com/Lunox-code/rick-morty"> Mobile Legends Counter </a>
       </h3>
-      <p align="start">Embark on a captivating journey through the universe of this beloved animated series as you explore character profiles seamlessly connected to an API</p>
-      <a href="https://rick-morty-adventures.netlify.app/">
-        <img align="center" src="https://github.com/Lunox-code/Lunox-code/blob/main/Visit_btn.png?raw=true" alt="Rick and Morty" width="300">
+      <p align="start">A website where players can learn how to counter their opponents’ heroes in Mobile Legends, an online strategy game for mobile devices played in teams of five players | LATINO PAGE</p>
+      <a href="https://mobilelegendscounter.com/">
+        <img align="center" src="https://github.com/Lunox-code/Lunox-code/blob/main/Visit_btn.png?raw=true" alt="Mobile Legends Counter" width="300">
       </a>
       <br>
       <br>
